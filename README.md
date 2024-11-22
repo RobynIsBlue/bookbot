@@ -1,2 +1,1 @@
-# bookbot
-biijut!!!
+BookBot is my first project!
